@@ -17,7 +17,7 @@ This project provides a **clean and interactive interface** to manage daily task
 ✔️ ✅ **Mark as Completed** – Strike-through completed tasks  
 ✔️ ❌ **Delete Tasks** – Remove tasks from the list  
 ✔️ 💾 **Local Storage Support** – Keeps tasks even after page reload  
-✔️ 🎨 **Modern UI** – Clean and simple design with animations  
+✔️ 🎨 **Modern UI** – Clean and simple design with animations
 
 ---
 
