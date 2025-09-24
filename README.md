@@ -4,25 +4,33 @@ A simple and responsive **To-Do List application** built using **HTML5, CSS3, an
 
 ---
 
+## 🔗 Live Demo
+
+Check out the live application here: [To-Do List App Live](https://keen-kelpie-b547fa.netlify.app/)
+
+---
+
 ## 📖 About the Project
-This project provides a **clean and interactive interface** to manage daily tasks. It is:
-- 🖥 **Lightweight**
-- 📱 **Fully Responsive**
+
+This project provides a **clean and interactive interface** to manage daily tasks. It is:  
+- 🖥 **Lightweight**  
+- 📱 **Fully Responsive**  
 - ⚡ **Fast and Functional**
 
 ---
 
 ## ✨ Features
+
 ✔️ ➕ **Add New Tasks** – Quickly add tasks to the list  
 ✔️ ✅ **Mark as Completed** – Strike-through completed tasks  
 ✔️ ❌ **Delete Tasks** – Remove tasks from the list  
 ✔️ 💾 **Local Storage Support** – Keeps tasks even after page reload  
-✔️ 🎨 **Modern UI** – Clean and simple design with animations
+✔️ 🎨 **Modern UI** – Clean and simple design with animations  
 
 ---
 
 ## 🛠 Tech Stack
+
 - 🌐 **HTML5** – For structure  
 - 🎨 **CSS3** – For styling and responsiveness  
 - ⚡ **JavaScript (ES6)** – For interactivity  
-
